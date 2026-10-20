@@ -15,3 +15,5 @@ test("Filling & Typing", async ({ page }) => {
     .locator("#email")
     .pressSequentially("qa@tester.com", { delay: 300 });
 });
+
+//NEW test case//
