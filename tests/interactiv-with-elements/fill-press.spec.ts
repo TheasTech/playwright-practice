@@ -15,3 +15,5 @@ test("Filling & Typing", async ({ page }) => {
     .locator("#email")
     .pressSequentially("qa@tester.com", { delay: 300 });
 });
+
+//this is a test commnet for marge conflicts.
